@@ -11,7 +11,7 @@
 
 
 ## My Data Analyst Journey 
-I am a passionate data analyst with a strong foundation in Excel, Power BI, SQL, and Python (including NumPy). My journey into data analysis began with a fascination for uncovering patterns and trends in information, driving me to transform raw data into actionable insights.
+I am a passionate data analyst with a strong foundation in Excel, Power BI, Tableau, SQL, Python, Ai . My journey into data analysis began with a fascination for uncovering patterns and trends in information, driving me to transform raw data into actionable insights.
 
 With experience in gathering, cleaning, and analyzing data, I excel in identifying market trends, optimizing processes, and solving complex problems. My career is defined by a commitment to continuous learning and adapting to new technologies in the dynamic field of data analytics.
 
