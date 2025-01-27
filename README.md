@@ -10,20 +10,24 @@
 
 
 
-## My Data Analyst Journey 
-I am a passionate data analyst with a strong foundation in Excel, Power BI, Tableau, SQL, Python, Ai . My journey into data analysis began with a fascination for uncovering patterns and trends in information, driving me to transform raw data into actionable insights.
+## Seeking Data Analyst Opportunities
 
-With experience in gathering, cleaning, and analyzing data, I excel in identifying market trends, optimizing processes, and solving complex problems. My career is defined by a commitment to continuous learning and adapting to new technologies in the dynamic field of data analytics.
+Hello, I'm Deepak Pal, an aspiring Data Analyst actively seeking opportunities to apply my analytical skills and grow in the field of data analytics. With a strong foundation in Excel, Power BI, SQL, and Python (NumPy), I am passionate about leveraging data to drive business decisions and actionable insights.
 
-I am eager to connect with others who share a passion for data and to explore collaborative opportunities that unlock valuable insights and drive impactful decisions. Let’s connect and delve into the world of data together
+🔹 Key Skills:
+✔ Excel – Data Cleaning, Pivot Tables, Advanced Functions
+✔ Power BI – Dashboarding, DAX, Data Modeling
+✔ SQL – Queries, Joins, Data Extraction
+✔ Python – NumPy, Pandas, Data Analysis
 
-- 🌱 I’m currently learning **Excel, powerBI, SQL, Python, Tableau, AI**
+I am eager to contribute, learn, and collaborate in a dynamic environment. Open to Data Analyst roles—let’s connect and explore opportunities together.
 
-- 💬 Ask me about **Excel, powerBI ,Data visualization**
-
-- 📫 How to reach me **Dpal7233@gmail.com**
+📩 Open to networking and discussions—feel free to reach out  = dpal7233@gmail.com
 
 - ⚡ Fun fact **Data Dynamo**
+
+#OpenToWork #DataAnalyst #DataAnalytics #PowerBI #SQL #Excel
+
 
 <h3 align="left">Connect with me:</h3>
 
