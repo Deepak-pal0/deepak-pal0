@@ -15,9 +15,13 @@
 Hello, I'm Deepak Pal, an aspiring Data Analyst actively seeking opportunities to apply my analytical skills and grow in the field of data analytics. With a strong foundation in Excel, Power BI, SQL, and Python (NumPy), I am passionate about leveraging data to drive business decisions and actionable insights.
 
 🔹 Key Skills:
+
 ✔ Excel – Data Cleaning, Pivot Tables, Advanced Functions
+
 ✔ Power BI – Dashboarding, DAX, Data Modeling
+
 ✔ SQL – Queries, Joins, Data Extraction
+
 ✔ Python – NumPy, Pandas, Data Analysis
 
 I am eager to contribute, learn, and collaborate in a dynamic environment. Open to Data Analyst roles—let’s connect and explore opportunities together.
